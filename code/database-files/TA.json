@@ -1,0 +1,12 @@
+[
+    {
+        "Class_id": 1,
+        "Ta_id": 1,
+        "Ta_name": "Robert Collins",
+        "Ta_email": "rcollins@hawk.iit.edu",
+        "Ta_password": "blue1995",
+        "Ta_officehoursDAY": "Monday, Wednesday",
+        "Ta_officehourslocation": "Perlstein Hall"
+
+    }
+]

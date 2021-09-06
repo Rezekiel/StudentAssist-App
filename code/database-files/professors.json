@@ -1,0 +1,9 @@
+[
+{
+"professor_id": 1,
+"professor_name": "Charles Jenkins",
+"professor_email": "cjenkins@iit.edu",
+"professor_password": "password1234",
+"class_id": 1
+}
+]

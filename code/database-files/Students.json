@@ -1,0 +1,9 @@
+[
+    {
+        "student_id": 1,
+        "student_name": "Johnny Bonds",
+        "student_email": "jbonds@hawk.iit.edu",
+        "student_password": "iloveiit2020",
+        "class_id": 1
+    }
+]

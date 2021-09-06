@@ -1,0 +1,27 @@
+{
+  "name": "2020-team15w",
+  "version": "1.0.0",
+  "description": "Private Team Repo for Class Work\r ## Description of our project subject\r * Our team will focus on a college AI assistant for students and professors. College is known to be a struggle and a lot to handle for people who do not have the necessary management skills. Students are mostly frustrated with the platforms provided by schools, Blackboard for example. So, our mission is to provide a service that will give everyone an ease of mind. We are confident that college life will run smoother for students and professors once we deliver our app to them.\r ## Team Members\r * Bryant McGee bmcgee@iit.edu\r * Davon Branch dbranch2@hawk.iit.edu\r * Raymond Ezekiel rezekiel@hawk.iit.edu\r * Olu Ogunsanya oogunsanya@hawk.iit.edu",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/illinoistech-itm/2020-team15w.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/illinoistech-itm/2020-team15w/issues"
+  },
+  "homepage": "https://github.com/illinoistech-itm/2020-team15w#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.9"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.3"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "373611690289",
+    "firebase_url": "https://hawk-pro-22782.firebaseio.com",
+    "project_id": "hawk-pro-22782",
+    "storage_bucket": "hawk-pro-22782.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373611690289:android:9a673ff8c4cee4e6179810",
+        "android_client_info": {
+          "package_name": "com.app.projecthawk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373611690289-er242tt8oke4afcpk5rcoppptcqeqt9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARTkm0J3tvkT5DtypSKrgQcM3Aj63xA6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373611690289-er242tt8oke4afcpk5rcoppptcqeqt9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
